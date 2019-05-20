@@ -1,2 +1,2 @@
-# phat-kaps
+# Made with CSS Grid
 https://www.phatkaps.co.za/
