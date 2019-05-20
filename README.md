@@ -1,2 +1,2 @@
-# phat-kaps-coming-soon
-Phat Kaps coming soon marketing website
+# phat-kaps
+https://www.phatkaps.co.za/
